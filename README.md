@@ -6,7 +6,7 @@ This is a basic weather app that allows users to enter a location and get the cu
 ## Demo
 
 
-![Alt Text](https://i.gyazo.com/6bd6d8bf6429bec22faf1e425e679c85.gif)
+![Alt Text](https://i.gyazo.com/80e312d74ffbdeb3b72b6df057f0a48b.gif)
 
 ## Run Instructions
 
