@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #f5f5f5;
+}
+
+.App {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 40px;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  width: 70%;
+}
+
+.search-button {
+  background-color: #41b883;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.location-box {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.location {
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.date {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.weather-box {
+  display: flex;
+  align-items: center;
+}
+
+.temperature {
+  font-size: 48px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+
+.weather {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.default-message {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 50px;
+}
