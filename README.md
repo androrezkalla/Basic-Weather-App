@@ -31,7 +31,8 @@ This is a basic weather app that allows users to enter a location and get the cu
 3. Install dependencies and run the project
 
 ```bash
-npm run install
+npm install
+npm run dev
 ```
 
 ## Usage
